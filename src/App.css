@@ -3,13 +3,18 @@
   flex-direction: column;
   align-items: center;
 }
+
+h2, h3{
+  font-size: medium;
+}
+
 .block{
-  margin-top:  5vh;
+  margin:  5vh 0;
   display: flex;
   flex-direction: column;
   align-items: center;
   padding: 1rem;
-  background-color: bisque;
+  background-color: rgb(142, 221, 255);
 }
 button{
   height: 1.5rem;
